@@ -9,8 +9,8 @@ import java.io.IOException;
  * @author qxq
  */
 
-@WebServlet(name = "RegisterServlet", value = "/RegisterServlet")
-public class RegisterServlet extends HttpServlet {
+@WebServlet(name = "ChangeCartServlet", value = "/ChangeCartServlet")
+public class ChangeCartServlet extends HttpServlet {
 
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {

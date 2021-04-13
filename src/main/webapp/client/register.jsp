@@ -13,14 +13,14 @@
 		<tr>
 			<td>
 				<a href="index.html">
-					<img src="images/logo.png" width="200" height="60" border="0"  alt=""/> 
+					<img src="images/logo.png" width="200" height="60" border="0" alt=""/>
 				</a>
 			</td>
 			<td style="text-align:right">
-				<img src="images/cart.gif" width="26" height="23" style="margin-bottom:-4px"  alt=""/>&nbsp;<a href="#">购物车</a> 
+				<img src="images/cart.gif" width="26" height="23" style="margin-bottom:-4px" alt=""/>&nbsp;<a href="#">购物车</a>
 				| <a href="#">帮助中心</a> 
 				| <a href="#">我的帐户</a>
-				| <a href="register.html">新用户注册</a>							
+				| <a href="register.jsp">新用户注册</a>
 			 
 			</td>		
 		</tr>
@@ -142,7 +142,7 @@
 			<tr>
 				<td rowspan="2" style="width:10%">
 					<img src="images/logo.png" width="195" height="50"
-					style="margin-left:175px"  alt=""/>
+                         style="margin-left:175px" alt=""/>
 				</td>
 				<td style="padding-top:5px; padding-left:50px">
 					<a href="#">
