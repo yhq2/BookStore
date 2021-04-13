@@ -2,6 +2,8 @@
 <c3p0-config>
     <default-config>
         <property name="user">root</property>
-        <proper name="password"></proper>
+        <property name="password"/>
+        <property name="driverClass">com.mysql.jdbc.Driver</property>
+        <property name="jdbcUrl">jdbc:mysql///BookStore</property>
     </default-config>
 </c3p0-config>
