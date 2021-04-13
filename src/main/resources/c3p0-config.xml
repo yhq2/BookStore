@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<c3p0-config>
+    <default-config>
+        <property name="user">root</property>
+        <proper name="password"></proper>
+    </default-config>
+</c3p0-config>
